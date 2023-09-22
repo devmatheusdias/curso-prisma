@@ -16,3 +16,4 @@ model Post {
 
   @@map("posts")
 }
+
